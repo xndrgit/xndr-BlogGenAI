@@ -4,9 +4,6 @@
 Welcome to OLLAMA open chat Integration for Laravel. Supercharge your Laravel projects with the intelligence of OLLAMA AI.
 <br>
 An open source web app where you can generate blog posts with your local OLLAMA AI.
-<br>
-#Laravel AI integration #OLLAMA chatbot Laravel #Laravel AI development #Laravel OLLAMA integration. #Local LLM into Your Laravel Projects
-
 
 
 
@@ -26,7 +23,7 @@ Feel free to reach out to me if you have any questions or need assistance:
 
 - Instagram: [xndr.ig](https://www.instagram.com/xndr.ig/)
 
-## Getting Started 🎬
+## How to use this?🛠
 
 Follow these simple steps to start generating content with OLLAMA AI:
 
