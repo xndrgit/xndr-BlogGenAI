@@ -1,6 +1,6 @@
 @extends('layouts.base')
 
-@section('title', 'Ideaflow')
+@section('title', 'BlogGen AI')
 
 @section('content')
     <div class="mt-3">
