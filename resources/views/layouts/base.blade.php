@@ -36,7 +36,7 @@
                     <span class="avatar avatar-circle avatar-sm"
                           style="background-image: url(/imgs/xndrprofile.jpg)"></span>
                     <div class="d-none d-xl-block ps-2">
-                        <div>XndrDEV</div>
+                        <div>xndr</div>
                         <div class="mt-1 small text-secondary">Developer</div>
                     </div>
                 </a>

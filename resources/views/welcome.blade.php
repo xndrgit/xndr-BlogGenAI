@@ -16,15 +16,15 @@
                                         <div class="h3">What is the topic of your blog post?</div>
                                         <input name="title" class="form-control"
                                                value="{{$outline ? $outline->title : ''}}"
-                                               placeholder="eg. How to make money online"/>
+                                               placeholder="How to make money online"/>
                                         @error('title')
                                         <div class="my-1 alert alert-danger">{{ $message }}</div>
                                         @enderror
                                     </div>
                                     <div class="mb-3">
-                                        <div class="h3">What are the important points to include in your content?</div>
+                                        <div class="h3">What are the points to include in your content?</div>
                                         <textarea rows="7" name="topic" class="form-control"
-                                                  placeholder="e.g, How to choose the right product for your business">{{$outline ? $outline->topic : ''}}</textarea>
+                                                  placeholder="How to choose the right product for your business">{{$outline ? $outline->topic : ''}}</textarea>
                                         @error('topic')
                                         <div class="my-1 alert alert-danger">{{ $message }}</div>
                                         @enderror
